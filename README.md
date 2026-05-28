@@ -7,6 +7,8 @@ Shared custom skills for Claude Code.
 | Skill | Trigger | Description |
 |-------|---------|-------------|
 | syscheck | `/syscheck` | Diagnose CPU hogs, fan noise, crash-looping Docker containers, runaway processes |
+| graphify | `/graphify` | Any input (code, docs, papers, images) → knowledge graph → clustered communities → HTML + JSON + audit report |
+| ros2-robotics | auto | ROS2 patterns — nodes, topics, services, actions, launch files, lifecycle, real-time considerations |
 
 ## Install
 
